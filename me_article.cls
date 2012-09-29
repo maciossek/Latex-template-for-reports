@@ -40,6 +40,10 @@
 \usepackage{pdfpages}
 %for appendix
 \usepackage{appendix}
+%for pictures parallel
+\usepackage{subfigure}
+%for eurosymbol
+\usepackage{eurosym}
 
 %\ifpdf 
 %	\usepackage[pdftex]{graphicx} \else 
